@@ -1,0 +1,28 @@
+Before everything,  smuggler update is required to get every objects.
+
+
+installation:
+
+ 
+  1)   Map Builder 3.2.0 (https://fr.gta5-mods.com/tools/map-builder) Important !!!!!!!!!!!! or you will have nothing.. be sure it work.
+
+
+  2)  If you hadn't done so already, you will need to set up the CustomMaps DLC : https://www.gta5-mods.com/tools/mapeditor-2-ymap-converter
+
+ 
+  3)  All you need to do after that, is drop 'airport' ; jahoti ; lakilaki, tree hight 2, flower hight and yolokoto' inside custom_maps.rpf of the following folder (using OpenIV): 
+
+\mods\update\x64\dlcpacks\CustomMaps\dlc.rpf\x64\levels\gta5\_citye\maps\custom_maps.rpf 
+
+
+ 4) then copy the "vehicules hight.xml" file into: script / AutoloadMaps to have every vehicules or load it manualy with map editor.
+
+
+A big thanks to SOLLAHOLLA for ymap and Guadmaz for map editor, both fabulous persons.
+
+Thanks for dowloading, enjoy. If you want more, please give a like for my work, i try to do my best.
+
+i'm french so if you have any questions or answer, french is beter :D 
+
+
+
